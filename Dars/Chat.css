@@ -1,0 +1,58 @@
+.navbarcha {
+    width: 850px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: rgb(16, 9, 47); */
+    background-color: rgb(27, 26, 37);
+    color: rgb(165, 162, 162);
+    /* text-align: center; */
+    position: sticky;
+    top: 0;
+}
+.div2{
+    margin-left: 20px;
+}
+.div3 i{
+    font-size: 20px;
+
+}
+.div5 i{
+    font-size: 25px;
+
+}
+.div3{
+    display: flex;
+    gap: 20px;
+}
+.div4{
+    width: 830px;
+    min-height: 650px;
+    background-color: rgb(16, 9, 47);
+    overflow-y: scroll;
+
+}
+.div5{
+    width: 850px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(27, 26, 37);
+    color: aliceblue;
+
+}
+.div7{
+    width: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.div5
+input{
+    width: 85%;
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+    color: aliceblue;
+}
